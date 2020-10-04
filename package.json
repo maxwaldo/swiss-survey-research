@@ -1,0 +1,15 @@
+{
+  "name": "swisssurveyresearch",
+  "version": "0.0.1",
+  "description": "This project aims to build a front and back end app to allow people to get information about our activity and register to our email list.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Maxime Walder",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nedb": "^1.8.0"
+  }
+}
